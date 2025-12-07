@@ -4,7 +4,8 @@
 
 >> **注意**：适配[Komari](https://github.com/komari-monitor/komari/releases/tag/1.1.3) v1.1.3, [PurCarte](https://github.com/Montia37/komari-theme-purcarte/releases/tag/v1.2.5) v1.2.5，其他版本未经测试，可能无法正常运行
 
-![3D地球](/images/3DEarth.gif)
+| ![3D地球](/images/3DEarth.gif) | ![3D地球](/images/3DEarth-2.gif) |
+| ------------------------------ | -------------------------------- |
 ## 主要功能
 
 1. **欢迎气泡 (Welcome Bubble)**：
@@ -67,3 +68,6 @@
 ## 使用
 
 - 放置：**设置** > **站点** > **自定义**；**CSS/HTML**放**自定义头部**，**JS**放**自定义Body**
+
+
+>> **注意**：如果代码存在问题，请发起Issue，看到后会及时修复
