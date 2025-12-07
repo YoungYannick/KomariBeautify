@@ -1,0 +1,3 @@
+https://unpkg.com/three-globe/example/img/earth-day.jpg
+https://unpkg.com/three-globe/example/img/earth-night.jpg
+https://unpkg.com/three-globe/example/img/night-sky.png
