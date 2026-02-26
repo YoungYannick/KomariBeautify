@@ -1,3 +1,6 @@
+> [!NOTE]
+> **已更新主题包版本 [PurCarte-Plus](https://github.com/YoungYannick/komari-theme-purcarte-plus)**
+
 # KomariBeautify - 基于PurCarte主题的自定义代码
 
 这是一个自定义的HTML文件（KomariBeautify.html），用于增强Komari探针的功能，基于PurCarte主题实现。文件包含CSS样式和JavaScript脚本，主要添加了欢迎气泡、资产统计、地球渲染组件以及页面保护机制。所有组件均设计为响应式，支持移动设备，并与PurCarte主题的CSS变量（如`--accent-9`、`--purcarte-card-color`等）集成，确保视觉一致性。
