@@ -1,5 +1,18 @@
 > [!NOTE]
-> **已更新主题包版本 [PurCarte-Plus](https://github.com/YoungYannick/komari-theme-purcarte-plus)**
+> **此版本不在维护，新版主题包前往：[PurCarte-Plus](https://github.com/YoungYannick/komari-theme-purcarte-plus)，现有已知问题解决方案：[#4](https://github.com/YoungYannick/KomariBeautify/issues/4)**
+
+
+> [!WARNING]
+> ### 🚨 使用前请务必阅读
+> **本项目是个人兴趣驱动的开源作品，不是商业产品，不是外包项目，更不欠任何人**
+>
+> - 我只针对 **我自己发现的问题**、**我自己用着不爽的地方**、**我自己喜欢的方向** 进行开发和修复
+> - 我没有义务兼容每一种设备、每一个浏览器、每一个奇葩环境
+> - 我不会因为你「不用但是喜欢到处说不行」就去改任何东西
+> - **觉得有 BUG？** 善意反馈我很欢迎；阴阳怪气、到处抹黑，恕不奉陪
+> - **觉得不好用？** 没关系，`原版主题` 永远在那里，请便
+>
+> **开源 ≠ 免费客服 ≠ 有求必应。尊重是双向的**
 
 # KomariBeautify - 基于PurCarte主题的自定义代码
 
